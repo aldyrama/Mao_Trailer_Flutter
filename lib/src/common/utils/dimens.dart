@@ -1,4 +1,5 @@
 import 'utils.dart';
+
 class Dimens {
   static height(BuildContext context) {
     return MediaQuery.of(context).size.height;
